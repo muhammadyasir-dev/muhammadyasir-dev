@@ -6,7 +6,7 @@
 I craft scalable and high performance applications which on their performance work under heay load;
 --->
 
-<h2> 🚀 &nbsp;Work with</h2>
+<h2> 🚀 &nbsp;Tech stack</h2>
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="45" width="45"/>
