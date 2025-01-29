@@ -1,4 +1,4 @@
-- 👋 See my blogs  <a href="http://myasir.hshnode.dev">mr_ysir</a
+- 👋 See my blogs  <a href="http://myasir.hashnode.dev">blog</a
 - 📫 helloyasir@proton.me
 - ⚡ You can see me on <a href="https://www.upwork.com/freelancers/~0134f4c054f96f8850">Upwork</a>
 
