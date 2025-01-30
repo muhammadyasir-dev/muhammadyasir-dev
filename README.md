@@ -1,6 +1,6 @@
-- 👋 See my blogs  <a href="http://myasir.hashnode.dev">blog</a
-- 📫 helloyasir@proton.me
-- ⚡ You can see me on <a href="https://www.upwork.com/freelancers/~0134f4c054f96f8850">Upwork</a>
+👋 See my blogs [blog](http://myasir.hashnode.dev)  
+- 📫 helloyasir@proton.me  
+- ⚡ You can see me on [Upwork](https://www.upwork.com/freelancers/~0134f4c054f96f8850)
 
 <!---
 I craft scalable and high performance applications which on their performance work under heay load;
