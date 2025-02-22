@@ -4,7 +4,7 @@
 
 
 I craft scalable and high performent applications
-which work under heavy load like fire 
+which work under heavy load like fire.
 
 
 <h2> &#128293;Tech stack</h2>
