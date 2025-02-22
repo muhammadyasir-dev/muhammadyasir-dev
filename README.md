@@ -2,11 +2,11 @@
 - 📫 helloyasir@proton.me  
 - ⚡ You can see me on [Upwork](https://www.upwork.com/freelancers/~0134f4c054f96f8850)
 
-<!---
-I craft scalable and high performance applications which on their performance work under heay load;
---->
 
-<h2> 🚀 &nbsp;Tech stack</h2>
+I craft scalable and high performanent applications which work under heavy load like water
+
+
+<h2> &#128293;Tech stack</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="45" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="45" width="45"/>
