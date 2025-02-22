@@ -8,7 +8,7 @@ I craft scalable and high performance applications which on their performance wo
 
 <h2> 🚀 &nbsp;Tech stack</h2>
 <p align="left">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="45" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="45" width="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="45" width="45"/>
