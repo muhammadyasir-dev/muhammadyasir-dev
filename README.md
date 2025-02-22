@@ -3,7 +3,8 @@
 - ⚡ You can see me on [Upwork](https://www.upwork.com/freelancers/~0134f4c054f96f8850)
 
 
-I craft scalable and high performanent applications which work under heavy load like water
+I craft scalable and high performent applications
+which work under heavy load like fire 
 
 
 <h2> &#128293;Tech stack</h2>
