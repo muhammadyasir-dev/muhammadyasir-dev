@@ -1,8 +1,8 @@
-### I am Yasir
+# 👋 I am Muhammad Yasir
 
-# Creator of 👣[dustdb](github.com/dust-inc/dustdb)
+### Creator of 👣[dustdb](github.com/dust-inc/dustdb)
 
-👋 See my blogs [blog](http://myasir.hashnode.dev)  
+ See my blogs [blog](http://myasir.hashnode.dev)  
 - 📫 helloyasir@proton.me  
 - ⚡ You can see me on [Upwork](https://www.upwork.com/freelancers/~0134f4c054f96f8850)
 
