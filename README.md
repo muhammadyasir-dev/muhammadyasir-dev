@@ -1,4 +1,4 @@
-# 👋 I am Muhammad Yasir
+# ✋ I am Muhammad Yasir
 
 ### Creator of 👣[dustdb](github.com/dust-inc/dustdb)
 
