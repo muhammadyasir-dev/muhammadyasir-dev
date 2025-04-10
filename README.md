@@ -5,9 +5,9 @@
  See my blogs [blog](http://myasir.hashnode.dev)  
 - 📫 helloyasir@proton.me  
 - ⚡ You can see me on [Upwork](https://www.upwork.com/freelancers/~0134f4c054f96f8850)
+- 𝕏 On twitter [twitter](https://x.com/myasirdev)
 
-
-### I craft scalable and high performent applications
+I craft scalable and high performent applications
 which work under heavy load like fire.
 
 
