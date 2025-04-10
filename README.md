@@ -7,11 +7,11 @@
 - ⚡ You can see me on [Upwork](https://www.upwork.com/freelancers/~0134f4c054f96f8850)
 
 
-I craft scalable and high performent applications
+### I craft scalable and high performent applications
 which work under heavy load like fire.
 
 
-<h2> &#128293;Tech stack</h2>
+## 🛠️ Tech stack
 <p align="left">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="45" width="45"/>
